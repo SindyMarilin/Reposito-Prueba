@@ -1,0 +1,39 @@
+* {  margin:0px; padding:0px; }
+
+body{ background: url(fotos/infor.jpg) no-repeat center fixed; background-size:cover;}
+
+.espacio{ width:1000px; height:15px; background:none; }
+
+.barra{ background:skyblue; height:75px; width:980px; font-size:65px; text-align:center; color:black;  margin-top:7px; }
+
+header nav{ background:skyblue; overflow:hidden; height:60px;}
+
+header nav ul{list-style:none; }
+
+header nav ul li{ float:right; }
+
+header nav ul li a{ width:90px; height:20px; display:block; color:black; text-decoration:none;
+ background:lime; margin-right:12px; margin-top:2px; font-size:13px; padding:10px;}
+
+header nav ul li a p {text-align:middle-center; font-size:23px;}
+
+header nav ul li a:hover{ background:red; }
+
+header { background:skyblue; height:50px; width:1000px; margin:auto; }
+
+section { margin:auto; background:skyblue; height:430px; width:980px; padding:10px; }
+
+.leftcompleto {margin:8px; background:skyblue; height:400px; width:200px; margin-top:5px; float:left; padding:5px; }
+
+.left { height:338px;  width:200px; background:skyblue; float:left; margin-top:5px; } 
+
+article { background:skyblue; height:400px; width:530px; float:left; margin:5px; margin-top:5px;} 
+
+.instituto { background:skyblue; height:410px; width:500px; margin:5px; margin-top:5px; padding:10px; float:left; }
+
+.rightcompleto {margin:5px; background:skyblue; height:400px; width:200px; margin-top:5px; float:left; padding:5px;}
+
+.right{ height:338px;  width:200px; background:skyblue; float:left; margin-top:5px; }
+
+p { color: black; text-align:justify; font-size:21px}
+
