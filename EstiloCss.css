@@ -1,0 +1,43 @@
+* {  margin:0px; padding:0px; }
+
+body{ background: url(fotos/infor.jpg) no-repeat center fixed; background:silver;}
+
+.espacio{ width:1000px; height:35px; background:none; }
+
+.barra{ background:paleturquoise; height:75px; width:1000px; font-size:65px; text-align:center; color:black;  margin-top:7px; }
+
+header nav{ background:pink; overflow:hidden; height:60px; }
+
+header nav ul{list-style:none; }
+
+header nav ul li{ float:right; }
+
+header nav ul li a{ width:90px; height:20px; display:block; color:black; text-decoration:none;
+ background:deeppink; margin-right:12px; margin-top:2px; font-size:13px; padding:10px;}
+
+header nav ul li a p {text-align:middle-center; font-size:23px;}
+
+header nav ul li a:hover{ background:aliceblue; }
+
+header { background:pink; height:50px; width:1000px; margin:auto; }
+
+section { margin:auto; background:pink; height:430px; width: 1000px; }
+
+.leftcompleto {margin:8px; background:pink; height:400px; width:200px; margin-top:5px; float:left; padding:5px; }
+
+.left { height:338px;  width:200px; background:pink; float:left; margin-top:5px; } 
+
+.leftabajo {height:338px;  width:200px; background:yellow; float:left; margin-top:5px;}
+
+article { background:pink; height:400px; width:540px; float:left; margin:5px; margin-top:5px; } 
+
+.instituto { background:pink; height:380px; width:500px; margin:5px; margin-top:5px; padding:px; float:; }
+
+.rightcompleto {margin:5px; background:pink; height:400px; width:200px; margin-top:5px; float:left; padding:5px;}
+
+.right{ height:338px;  width:200px; background:pink; float:left; margin-top:5px; }
+
+.rightabajo { height:338px;  width:200px; background:pink; float:left; margin-top:5px;}
+
+p { color: black; text-align:justify; font-size:18px}
+
